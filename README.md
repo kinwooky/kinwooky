@@ -32,9 +32,3 @@ A Link in Bio, the most beautiful and clean you've ever seen − [Grabbin](https
 </em></sub>
 <br/>
 
-<sub><em>
-Privacy-first analytics for the modern web - [Foundly](https://foundly.cc)
-</em></sub>
-
-<sub><em>
-</em></sub>
